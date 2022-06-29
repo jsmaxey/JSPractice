@@ -1,0 +1,3 @@
+ const myName = 'Arthur';
+ const myCity = 'Galloway';
+ console.log(`My name is ${myName}. My favorite city is ${myCity}`)

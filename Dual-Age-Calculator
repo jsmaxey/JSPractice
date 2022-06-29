@@ -1,0 +1,10 @@
+var CurYear = 2022;
+var BirthYear = 1996;
+console.log("Person 1 is ")
+console.log(CurYear - BirthYear)
+console.log("years old")
+
+var Birthyear = 1999;
+console.log("Person 2 is ")
+console.log(CurYear-Birthyear)
+console.log("years old")

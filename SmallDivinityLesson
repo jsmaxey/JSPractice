@@ -1,0 +1,4 @@
+const Divinity = true
+console.log("What is Divinity?")
+console.log(Divinity)
+// Divinity cannot be changed or challenged after initial declaration

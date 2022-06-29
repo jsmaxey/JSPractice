@@ -1,0 +1,3 @@
+var CurrentYear = 2022;
+var BirthYear = 1996;
+console.log(CurrentYear - BirthYear);

@@ -1,0 +1,5 @@
+const Age = 26;
+var DYp1 = (Age - 2) * 4;
+var DYp2 = 21;
+var DogYears = DYp1 + DYp2;
+console.log(`${Age} human years is equal to ${DogYears} Dog Years`);

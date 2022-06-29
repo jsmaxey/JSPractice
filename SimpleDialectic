@@ -1,0 +1,4 @@
+let Thesis = true;
+let Antithesis = false;
+console.log("If Thesis = " + Thesis);
+console.log("Then Antithesis = " + Antithesis);

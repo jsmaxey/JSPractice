@@ -1,0 +1,4 @@
+console.log("Age:")
+console.log(2022-1996)
+console.log("Time I've Been Coding:")
+console.log(2022-2019 + " Years")
